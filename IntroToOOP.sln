@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToOOP", "IntroToOOP\IntroToOOP.csproj", "{322D95AD-E5E5-43D1-A19B-A2B392397184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322D95AD-E5E5-43D1-A19B-A2B392397184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322D95AD-E5E5-43D1-A19B-A2B392397184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322D95AD-E5E5-43D1-A19B-A2B392397184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322D95AD-E5E5-43D1-A19B-A2B392397184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72613576-C35D-4B99-9056-A262AEC724E6}
+	EndGlobalSection
+EndGlobal
